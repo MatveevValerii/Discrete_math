@@ -23,7 +23,7 @@ i = Ipeak*np.sin(100*np.pi*t+phi_i)
 
 Pave = (1/2)*Upeak*Ipeak*np.cos(phi_u-phi_i)
 
-p = u*i
+p =  u*i
 
 fig, axs = mpl.subplots(2)
 
