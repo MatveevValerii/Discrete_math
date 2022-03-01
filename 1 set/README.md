@@ -1,1 +1,1 @@
-Couple of exersices with datasets
+mathematical scripts
